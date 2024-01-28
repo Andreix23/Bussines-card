@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.avatar{
+    width: 130px;
+    height: 150px; 
+    border-radius: 10px;
+}
+.main{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    background: #bde0fe;
+    border-bottom: 6px solid #a2d2ff;
+    border-radius: 15px;
+}
+
+.SecondDiv{
+    text-align: center;
+}
